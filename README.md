@@ -41,9 +41,9 @@ The OpenTok 2.0 iOS SDK is supported on wifi connections.
 Developer and client requirements
 ---------------------------------
 
-* The OpenTok 2.0 iOS SDK requires XCode 4.2 or later. XCode 4.2 requires Mac OS 10.6.8 or later.
+* The OpenTok 2.0 iOS SDK requires XCode 4.5 or later. XCode 4.5 requires Mac OS 10.6.8 or later.
 
-* You need to test OpenTok apps on an iOS device running iOS 5. The OpenTok iOS SDK supports iPhone 3GS
+* You need to test OpenTok apps on an iOS device running iOS 6. The OpenTok iOS SDK supports iPhone 3GS
 (subscribing only), iPhone 4 and higher, iPod touch 4th generation and higher, and all iPad versions. 
 
 * To test OpenTok apps on an iOS device, you will need to register as an Apple iOS developer at
